@@ -121,20 +121,3 @@ int intelligent_selection(game* g);
 //	End of file 
 //------------------------------------
 #endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

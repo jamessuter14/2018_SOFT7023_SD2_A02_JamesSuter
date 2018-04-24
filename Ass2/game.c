@@ -485,7 +485,7 @@ int is_there_a_winner(game* g) {
 
 		res = 2;
 
-	}
+	} 
 
 	if ((*g).board[0][1] == 'O' && (*g).board[1][1] == 'O' && (*g).board[2][1] == 'O') {
 

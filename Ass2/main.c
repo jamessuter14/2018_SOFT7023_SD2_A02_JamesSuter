@@ -39,6 +39,3 @@ int main(int argc, char* argv[]) {
 	//4. We finish the application returning 0
 	return 0;
 }
-
-
-
