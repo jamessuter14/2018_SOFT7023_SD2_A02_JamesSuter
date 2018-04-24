@@ -37,5 +37,5 @@ int main(int argc, char* argv[]) {
 	play_game(p1, p2, im);
 
 	//4. We finish the application returning 0
-	return 0;
+	return 0; 
 }

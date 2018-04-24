@@ -129,6 +129,7 @@ void display_board_content(game* g) {
 
 		}
 
+
 		printf("|\n");
 
 		first = first + 3;
@@ -136,7 +137,7 @@ void display_board_content(game* g) {
 		third = third + 3;
 
 	}
-
+	printf("\t|---|---|---|\t\t"  "|---|---|---|\n");
 }
 
 //------------------------------------

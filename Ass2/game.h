@@ -56,7 +56,7 @@ void display_game_status(game* g);
 // 04. gen_num (IMPLEMENTED)
 //---------------------------
 int gen_num(int lb, int ub);
-
+ 
 //---------------------------------------
 // 05. FUNCTION my_getchar (IMPLEMENTED)
 //---------------------------------------
